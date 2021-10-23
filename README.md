@@ -23,7 +23,7 @@ The following list describes the folders in the project:
 
 - **/code**: contains all code of this project
 - **/data**: contains data used for project illustration
-- **/models**: containing placeholders for models used in this project
+- **/models**: containing placeholders for models used in the project illustration
 
 ## Using the main programs
 
@@ -52,6 +52,7 @@ To run the main programs, change the working directory of the execution environm
   ```
     python explanation_plausiblity.py --test_filepath "../data/HateXplain-test.json" --explanations_filepath "../data/explanations/HateXplain-test-random-explanations.json"
   ```
+
 
 **Running the whole pipeline**
 
